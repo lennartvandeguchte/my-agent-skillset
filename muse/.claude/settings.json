@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "WebSearch",
+      "WebFetch",
+      "Edit(problems/**)",
+      "Write(problems/**)",
+      "Edit(ideas/**)",
+      "Write(ideas/**)",
+      "Edit(sessions/**)",
+      "Write(sessions/**)",
+      "Edit(memory.md)",
+      "Bash(python3 tests/check_spec.py:*)"
+    ]
+  }
+}
