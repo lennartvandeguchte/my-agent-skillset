@@ -3,7 +3,7 @@ title: Textile sorters can't detect low-percentage elastane, so "100% cotton" ba
 domain: textile waste
 score: 5
 freshness: 2025-09-01
-status: open
+status: picked
 source: seed
 ---
 
